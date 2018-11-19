@@ -1,9 +1,7 @@
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
-
 # 地理信息系统原理与开发
 
--[老师信息](#老师信息)  
--[第一节课](#第一节课)
+- [老师信息](#老师信息)  
+- [第一节课](#第一节课)
 
 ## 老师信息
 
@@ -50,4 +48,6 @@ Email:  zuozejun@mapgis.com
 
 以大地水准面为基准建立起来的椭球体模型
 
-$$\frac{x^2}{a^2} + \frac{y^2}{b^2} + \frac{z^2}{c^2} = 1$$
+![math1](picture/math1.jpg)
+
+地理位置：北纬31.513° 东经113.595°
