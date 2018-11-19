@@ -1,3 +1,5 @@
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
+
 # 地理信息系统原理与开发
 
 -[老师信息](#老师信息)  
@@ -47,7 +49,5 @@ Email:  zuozejun@mapgis.com
 椭球体模型
 
 以大地水准面为基准建立起来的椭球体模型
-
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
 
 $$\frac{x^2}{a^2} + \frac{y^2}{b^2} + \frac{z^2}{c^2} = 1$$
