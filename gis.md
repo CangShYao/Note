@@ -5,7 +5,7 @@
 
 ## 老师信息
 
-Name:   左泽君  
+Name:   左泽均  
 Tel:    13995516700  
 Email:  zuozejun@mapgis.com  
 
