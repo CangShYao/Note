@@ -71,7 +71,7 @@
 
 #### CMMI第二级：已管理级/可重复级
 
-|<font color=#FF0000 >过程域</font>|<font color=#FF0000 >PA</font>|
+|<font color=red>过程域</font>|<font color=red>PA</font>|
 |----|----|
 |需求管理|REQM|
 |项目计划|PP|
@@ -83,7 +83,7 @@
 
 #### CMMI第三级：已管理级
 
-|<font color=#FF0000 >过程域</font>|<font color=#FF0000 >PA</font>|
+|<font color=red>过程域</font>|<font color=red>PA</font>|
 |----|----|
 |组织过程焦点|OPF|
 |组织过程定义|OPD|
@@ -99,14 +99,25 @@
 
 #### CMMI第四级：量化管理级
 
-|<font color=#FF0000 >过程域</font>|<font color=#FF0000 >PA</font>|
+|<font color=red>过程域</font>|<font color=red>PA</font>|
 |----|----|
 |组织过程绩效|OPP|
 |量化项目管理|QPM|
 
 #### CMMI 第五级：优化级
 
-|<font color=#FF0000 >过程域</font>|<font color=#FF0000 >PA</font>|
+|<font color=red>过程域</font>|<font color=red>PA</font>|
 |----|----|
 |组织绩效管理|OPM|
 |原因分析与解决方案|CAR|
+
+## 已定义级相关
+
+- SG 1 Establish Estimates
+  - ***SP 1.1*** Estimate the Scope of the Project
+  - ***Sp 1.2*** Estimate Estimates of Work Product and Task Attributes
+  - ***SP 1.3*** Define Project Lifecycle Phases
+  - ***SP 1.4*** Estimate Effort and Cost
+- SG 2 Develop a Project Plan
+  - ???
+- SG 3 Obtain Commitment to the Plan
