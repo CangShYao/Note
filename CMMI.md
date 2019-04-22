@@ -113,11 +113,46 @@
 
 ## 已定义级相关
 
+### 项目2
+
 - SG 1 Establish Estimates
-  - ***SP 1.1*** Estimate the Scope of the Project
-  - ***Sp 1.2*** Estimate Estimates of Work Product and Task Attributes
-  - ***SP 1.3*** Define Project Lifecycle Phases
-  - ***SP 1.4*** Estimate Effort and Cost
+  - **SP 1.1** Estimate the Scope of the Project
+  - **Sp 1.2** Estimate Estimates of Work Product and Task Attributes
+  - **SP 1.3** Define Project Lifecycle Phases
+  - **SP 1.4** Estimate Effort and Cost
 - SG 2 Develop a Project Plan
-  - ???
+  - **SP 2.1** Establish the budget and Schedule
+  - **SP 2.2** Identify Project Risks
+  - **SP 2.3** Plan Data Management
+  - **SP 2.4** Plan the Project's Resources
+  - **SP 2.5** Plan Needed Knowledge and Skills
+  - **SP 2.6** Plan Stakeholder Involvement
+  - **SP 2.7** Establish the Project Plan
 - SG 3 Obtain Commitment to the Plan
+  - **SP 3.1** Review Plans That Affect the Project
+  - **SP 3.2** Reconcile Work and Resource Levels
+  - **SP 3.3** Obtain Plan Commitment
+
+### 3.项目跟踪与监控
+
+Project Monitoring and Control
+
+- SG 1 Monitor the Project Against the Plan
+  - **SP 1.1** Monitor Project Planning Parameters
+  - **SP 1.2** Monitor Commitments
+  - **SP 1.3** Monitor Project Risks
+  - **SP 1.4** Monitor Data Management
+  - **SP 1.5** Monitor Stakeholder Involvement
+  - **SP 1.6** Conduct Project Reviews
+  - **SP 1.7** Conduct Milestone Reviews
+- SG 2 Manage Corrective Action to Closure
+  - **SP 2.1** Analyze Issues
+  - **SP 2.2** Take Corrective Action
+  - **SP 2.3** Manage Corrective Actions
+  
+PS：  
+Corrective 纠正  
+closure 关闭  
+issue 问题  
+involvement 参与  
+stakeholder 干系人，利益相关者  
