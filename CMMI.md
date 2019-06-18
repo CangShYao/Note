@@ -151,8 +151,33 @@ Project Monitoring and Control
   - **SP 2.3** Manage Corrective Actions
   
 PS：  
-Corrective 纠正  
+corrective 纠正  
 closure 关闭  
 issue 问题  
 involvement 参与  
 stakeholder 干系人，利益相关者  
+establish 确立，建立  
+specify 具体，细化  
+obtain 活得
+
+#### 5.配置管理
+
+Configuration Management
+
+- SG 1 Establish Baselines
+  - **SP 1.1** Identify Configuration Items
+  - **SP 1.2** Establish a Configuration Management System
+  - **SP 1.3** Create Release Baselines
+- SG 2 Track and Control Changes
+  - **SP 2.1** Track Change Requsets
+  - **SP 2.2** Control Configuration Items
+- SG 3 Establish Integrity
+  - **SP 3.1** Establish Configuratiion Management Records
+  - **SP 3.2** Perform Configuration Audits
+
+#### 6.度量与分析
+
+Measurement and Analysis
+
+- SG 1 Align Measurement and Analysis Activities
+  - **SP 1.1** Establish Measurement Objectives
